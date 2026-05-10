@@ -25,8 +25,11 @@ Following details the functionality provided by the package:
     - [Difference hashing](http://www.hackerfactor.com/blog/index.php?/archives/529-Kind-of-Like-That.html) (DHash)
     - [Wavelet hashing](https://fullstackml.com/wavelet-image-hash-in-python-3504fdd282b5) (WHash)
     - [Average hashing](http://www.hackerfactor.com/blog/index.php?/archives/432-Looks-Like-It.html) (AHash)
+
 - Generation of encodings for images using one of the above stated algorithms.
+
 - Framework to evaluate effectiveness of deduplication  given a ground truth mapping.
+
 - Plotting duplicates found for a given image file.
 
 Detailed documentation for the package can be found at: [https://idealo.github.io/imagededup/](https://idealo.github.io/imagededup/)
